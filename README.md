@@ -1,8 +1,8 @@
-# miniguia-estudos-notebooklm
+# 🧠 miniguia-estudos-notebooklm
 Desafio plataforma DIO - Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM
 Guia de Estudo para Concurseiros – Área Ambiental
 
-# 1. Contexto e Objetivos
+# 1. 🎯 Contexto e Objetivos 🎯
 
 O projeto tem como tema a elaboração de um guia de estudo voltado para concurseiros interessados na área ambiental, com foco na preparação para oportunidades profissionais de caráter técnico.
 
@@ -12,7 +12,7 @@ O guia poderá abordar temas como licenciamento ambiental, legislação floresta
 
 Além de servir como material de revisão, a proposta busca apresentar os conteúdos de forma organizada e objetiva, permitindo que o concurseiro identifique os principais pontos de estudo e compreenda sua aplicação no contexto profissional.
 
-# 2. Curadoria de Fontes
+# 2. 💡Curadoria de Fontes 💡
 
 Para garantir a confiabilidade e a qualidade das informações apresentadas no guia, serão utilizadas como referências fontes institucionais, legislativas e técnicas reconhecidas.
 
@@ -23,7 +23,7 @@ Links:
 #4 - https://www.demarest.com.br/ebook-licenciamento-ambiental-lei-geral-e-sancionada-com-63-vetos-e-nova-mp-institui-modalidade-especial-com-aplicacao-imediata/
 #5 - https://repositorio.londrina.pr.gov.br/index.php/menu-assistencia/estrutura-1/legislacao-5/legislacao-nacional/21832-lei-fed-6938-81/file
 
-# 3. Engenharia de Prompts e "Cicatrizes"
+# 3. 📝 Engenharia de Prompts e "Cicatrizes" 📝
 
 Estratégias de Refinamento de Prompts Utilizadas no NotebookLM
 
@@ -31,7 +31,7 @@ Durante a construção do meu material de estudo sobre Meio Ambiente e Legislaç
 
 A estratégia adotada foi baseada em um processo de experimentação e refinamento progressivo. Inicialmente, utilizei perguntas mais abertas, buscando compreender como o NotebookLM apresentava determinado assunto. Conforme percebi algumas limitações na interpretação das solicitações, passei a utilizar técnicas mais específicas, principalmente prompts de explicação, contextualização, instruções de formato e Few-Shot Prompting.
 
-3.1 Prompt de Explicação
+3.1 📚 Prompt de Explicação 📚
 
 A primeira estratégia utilizada foi o Prompt de Explicação, fazendo perguntas abertas sobre os conteúdos presentes nas fontes.
 
@@ -46,7 +46,7 @@ Nesse primeiro momento, o objetivo era verificar como o NotebookLM identificava 
 
 Essa técnica foi útil principalmente para obter uma visão geral dos assuntos, permitindo identificar conceitos importantes e compreender como os conteúdos estavam relacionados.
 
-3.2 Utilização de Mapas Mentais
+3.2 🗺️ Utilização de Mapas Mentais 🗺️
 
 Depois das explicações iniciais, passei a solicitar uma organização mais visual das informações.
 
@@ -58,7 +58,7 @@ Essa abordagem buscou transformar um conteúdo mais extenso em uma estrutura hie
 
 Para um contexto de preparação para concursos, essa estratégia é interessante porque permite transformar textos legislativos e conceitos ambientais em estruturas mais fáceis de revisar posteriormente.
 
-3.3 Refinamento por meio de Contextualização
+3.3 🔍 Refinamento por meio de Contextualização 🔍
 
 Durante os testes, percebi que simplesmente solicitar que determinado conteúdo fosse "resumido" nem sempre produzia o resultado esperado.
 
@@ -70,7 +70,7 @@ Passei então a utilizar uma técnica de contextualização, explicando melhor q
 
 Essa mudança tornou o prompt mais específico, reduzindo a margem de interpretação da ferramenta.
 
-3.4 Few-Shot Prompting
+3.4 🧩 Few-Shot Prompting 🧩
 
 Outra técnica utilizada foi o Few-Shot Prompting, em que forneci exemplos do formato que esperava receber.
 
@@ -100,7 +100,7 @@ Diminui o efeito de borda"
 
 Nesse caso, o exemplo funcionou como uma referência prática para o modelo entender tanto o nível de profundidade quanto o formato esperado da resposta.
 
-3.5 Contextualização + Exemplo
+3.5 ⚖️ Contextualização + Exemplo ⚖️
 
 Uma das principais conclusões obtidas durante o processo foi que a combinação entre contextualização e exemplos produziu resultados melhores do que uma instrução genérica.
 
@@ -110,7 +110,7 @@ Por esse motivo, passei a explicar o que eu considerava uma resposta sucinta e, 
 
 Essa estratégia permitiu direcionar melhor a ferramenta, pois o prompt deixou de informar apenas o que fazer e passou também a demonstrar como o resultado deveria ser apresentado.
 
-3.6 Estratégia de Refinamento Progressivo
+3.6 ⚠️ Estratégia de Refinamento Progressivo ⚠️
 
 De maneira geral, minha metodologia seguiu uma sequência de refinamento:
 
@@ -122,7 +122,7 @@ Assim, comecei utilizando prompts mais simples para explorar o conteúdo e, post
 
 
 
-# 4. Miniguia de Estudo (Entrega Final)
+# 4. 🚀 Miniguia de Estudo (Entrega Final) 🚀
 
    A utilização dessas diferentes técnicas demonstrou que o refinamento de prompts é um processo iterativo. Inicialmente, perguntas abertas foram suficientes para explorar os conteúdos de Meio Ambiente e Legislação Ambiental. Entretanto, quando o objetivo passou a ser produzir materiais específicos para estudo e revisão, tornou-se necessário fornecer mais contexto e exemplos.
 
