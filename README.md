@@ -2,6 +2,8 @@
 Desafio plataforma DIO - Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM
 Guia de Estudo para Concurseiros – Área Ambiental
 
+Link: https://notebook.google.com/notebook/990aabae-e3c0-4bad-9c85-c5954d3e4190
+
 # 1. 🎯 Contexto e Objetivos 🎯
 
 O projeto tem como tema a elaboração de um guia de estudo voltado para concurseiros interessados na área ambiental, com foco na preparação para oportunidades profissionais de caráter técnico.
