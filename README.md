@@ -1,6 +1,7 @@
 # 🧠 miniguia-estudos-notebooklm
 Desafio plataforma DIO - Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM
-Guia de Estudo para Concurseiros – Área Ambiental
+
+Guia Concurseiros Ambientais
 
 Link: https://notebook.google.com/notebook/990aabae-e3c0-4bad-9c85-c5954d3e4190
 
