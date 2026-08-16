@@ -122,7 +122,7 @@ Assim, comecei utilizando prompts mais simples para explorar o conteúdo e, post
 
 
 
-4. Miniguia de Estudo (Entrega Final):
+# 4. Miniguia de Estudo (Entrega Final)
 
    A utilização dessas diferentes técnicas demonstrou que o refinamento de prompts é um processo iterativo. Inicialmente, perguntas abertas foram suficientes para explorar os conteúdos de Meio Ambiente e Legislação Ambiental. Entretanto, quando o objetivo passou a ser produzir materiais específicos para estudo e revisão, tornou-se necessário fornecer mais contexto e exemplos.
 
@@ -130,7 +130,7 @@ O principal aprendizado foi que quanto mais específico era o objetivo da respos
 
 Dessa forma, as técnicas de Prompt de Explicação, Contextualização, Few-Shot Prompting, síntese e organização estruturada foram utilizadas de maneira complementar para transformar as fontes do NotebookLM em materiais de estudo mais objetivos, organizados e adequados à preparação para concursos na área ambiental.
 
-# 4.2 Glossário — Conceitos Aprendidos na Interação
+# 4.1 Glossário — Conceitos Aprendidos na Interação
 
 ## A
 
@@ -219,7 +219,7 @@ Categoria de Unidades de Conservação que busca compatibilizar a conservação 
 **Zona de Amortecimento**
 Área do entorno de uma Unidade de Conservação onde determinadas atividades e usos podem ser regulados para minimizar impactos negativos sobre a unidade.
 
-## 🔄 Conceito central aprendido
+## 🔄 4.2 Conceito central aprendido
 
 **Refinamento Progressivo de Prompts**
 Estratégia utilizada ao longo da interação em que o usuário começa com uma solicitação simples, observa o comportamento da IA e progressivamente adiciona **contexto, exemplos, formato e critérios de síntese**.
